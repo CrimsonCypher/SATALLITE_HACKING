@@ -10,7 +10,7 @@ The DVB Project is an Alliance of 200 worldwide companies. Digital video broadca
 
 # 
 
-TEP 1( HARDWARE)
+STEP 1( HARDWARE)
 
 To sniff the Satellite broadcast you will need a Satellite dish with Low Noise Block down converter (LNB). The bigger the dish the better the range of signal it can pick. The cost of a good satellite dish can vary from 50 USD to 300 USD and are easily available.
 
