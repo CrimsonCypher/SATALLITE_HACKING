@@ -7,7 +7,7 @@ Satellites are also classified based on their height above Earth’s surface. Th
 2. Medium-Earth orbits (MEO)– These satellites are in range of 2,000 kilometers to 36,000 kilometers. Navigation satellites are of this kind.
 3. Geosynchronous orbits (GEO)– GEO satellites, also known as geostationary satellites, are in range greater than 36,000 kilometers. Television and communication satellites are of this kind.
 
-4. Satellites used for television or communication signals are generally in either elliptical orbit or geostationary orbit. Most of these satellites uses DVB standard for transmission.
+Satellites used for television or communication signals are generally in either elliptical orbit or geostationary orbit. Most of these satellites uses DVB standard for transmission.
 The DVB Project is an Alliance of 200 worldwide companies. Digital video broadcasting is been used worldwide to deliver multimedia content and television. DVB standard has been adopted by all the countries and is the benchmark for digital television worldwide. The DVB-S, DVB-C system is used across the world. Around 1 Billion DVB receivers are used worldwide. DVB is not encrypted and is broadcasted so anybody can receive the signal if you have with the right tools and knowledge. Since 2002 a lot of people have been using this technique to download digital content from satellites for free. Below are the steps for intercepting satellite communications as per Mike Stevens, Professor of satellite ethical hacking training at the International Institute of Cyber Security
 
 ##  
