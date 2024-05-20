@@ -1,3 +1,5 @@
+## SATELLITE HACKING/COMMUNICATIONS INTERCEPTION
+
 In today’s world we use satellite communication in many industries and we all know how important they are in our lives. There are different kinds of satellites depending upon the distance from the earth and others depending upon their orbits. Circular and elliptical orbital are two kinds of orbital satellites..
 
 Satellites are also classified based on their height above Earth’s surface. The kinds of satellites are
@@ -8,7 +10,7 @@ Satellites are also classified based on their height above Earth’s surface. Th
 4. Satellites used for television or communication signals are generally in either elliptical orbit or geostationary orbit. Most of these satellites uses DVB standard for transmission.
 The DVB Project is an Alliance of 200 worldwide companies. Digital video broadcasting is been used worldwide to deliver multimedia content and television. DVB standard has been adopted by all the countries and is the benchmark for digital television worldwide. The DVB-S, DVB-C system is used across the world. Around 1 Billion DVB receivers are used worldwide. DVB is not encrypted and is broadcasted so anybody can receive the signal if you have with the right tools and knowledge. Since 2002 a lot of people have been using this technique to download digital content from satellites for free. Below are the steps for intercepting satellite communications as per Mike Stevens, Professor of satellite ethical hacking training at the International Institute of Cyber Security
 
-# 
+##  
 
 STEP 1( HARDWARE)
 
